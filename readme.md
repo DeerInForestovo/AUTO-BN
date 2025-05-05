@@ -1,6 +1,6 @@
 # README
 
-本仓库记录了我的本科毕业设计《分布外检测研究》所用代码，原仓库为：https://github.com/Puning97/AUTO-for-OOD-detection，本仓库中只保留了CIFAR benchmark。
+本仓库记录了我的本科毕业设计《分布外检测研究》所用代码，原仓库为：[Puning97/AUTO-for-OOD-detection](https://github.com/Puning97/AUTO-for-OOD-detection)，本仓库中只保留了CIFAR benchmark。
 
 复现说明：
 
